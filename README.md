@@ -25,7 +25,7 @@
 
 ### Ответ
 
-![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Screenshot_3.png "вм")
+![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Screenshot_4.png "вм")
 
 ## Задача 3
 
