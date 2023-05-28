@@ -7,6 +7,12 @@
 
 Чтобы получить зачёт, вам нужно предоставить скриншот страницы с созданным образом из личного кабинета YandexCloud.
 
+### Ответ
+
+![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Screenshot_1.png "пакер")
+
+![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Screenshot_2.png "пакер")
+
 ## Задача 2
 
 **2.1.** Создайте вашу первую виртуальную машину в YandexCloud с помощью web-интерфейса YandexCloud.        
@@ -17,12 +23,19 @@
 
 Чтобы получить зачёт, вам нужно предоставить вывод команды terraform apply и страницы свойств, созданной ВМ из личного кабинета YandexCloud.
 
+### Ответ
+
+![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Screenshot_3.png "вм")
+
 ## Задача 3
 
 С помощью Ansible и Docker Compose разверните на виртуальной машине из предыдущего задания систему мониторинга на основе Prometheus/Grafana.
 Используйте Ansible-код в директории ([src/ansible](https://github.com/netology-group/virt-homeworks/tree/virt-11/05-virt-04-docker-compose/src/ansible)).
 
 Чтобы получить зачёт, вам нужно предоставить вывод команды "docker ps" , все контейнеры, описанные в [docker-compose](https://github.com/netology-group/virt-homeworks/blob/virt-11/05-virt-04-docker-compose/src/ansible/stack/docker-compose.yaml),  должны быть в статусе "Up".
+
+### Ответ
+
 
 ## Задача 4
 
@@ -36,6 +49,9 @@
 - скриншот работающего веб-интерфейса Grafana с текущими метриками, как на примере ниже.
 
 
+### Ответ
+
+
 ## Задача 5 (*)
 
 Создайте вторую ВМ и подключите её к мониторингу, развёрнутому на первом сервере.
@@ -44,3 +60,5 @@
 
 - скриншот из Grafana, на котором будут отображаться метрики добавленного вами сервера.
 
+
+### Ответ
