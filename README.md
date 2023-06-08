@@ -63,6 +63,7 @@
 
 ### Ответ
 
+![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Untitled13.png "графана") 
 
 ## Задача 5 (*)
 
