@@ -13,6 +13,11 @@
 
 ![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Screenshot_2.png "пакер")
 
+Переделала на центос
+
+![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Untitled14.png "пакер") 
+
+
 ## Задача 2
 
 **2.1.** Создайте вашу первую виртуальную машину в YandexCloud с помощью web-интерфейса YandexCloud.        
