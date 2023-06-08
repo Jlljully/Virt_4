@@ -25,7 +25,15 @@
 
 ### Ответ
 
-![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Screenshot_4.png "вм")
+Созданная вручную:  
+
+![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Untitled8.png "вм")  
+
+Созданная терраформом:  
+
+![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Untitled9.png "вм") 
+
+![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Untitled10.png "вм") 
 
 ## Задача 3
 
