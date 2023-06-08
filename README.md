@@ -44,6 +44,10 @@
 
 ### Ответ
 
+![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Untitled11.png "ansible") 
+
+![Скрин](https://github.com/Jlljully/Virt_4/blob/main/Untitled12.png "ansible") 
+
 
 ## Задача 4
 
